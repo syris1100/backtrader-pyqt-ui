@@ -5,5 +5,12 @@
         "separator": ",",
         "timeFormat": "%Y-%m-%d %H:%M:%S",
         "timeFrame": "M5"
+    },
+    "H1": {
+        "fileName": "EURUSD_H1.csv",
+        "filePath": "C:/Users/user/Desktop/learnigcode/backtrader-pyqt-ui/data/Source 1/EURUSD_H1.csv",
+        "separator": ",",
+        "timeFormat": "%Y-%m-%d %H:%M",
+        "timeFrame": "H1"
     }
 }

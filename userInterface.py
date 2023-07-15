@@ -852,7 +852,7 @@ class UserInterface:
         row = 0
         for parameterName, parameterValue in strategy.params._getitems():
 
-            if parameterName is not 'model':
+            if parameterName != 'model':
                 label = QtWidgets.QLabel(parameterName)
 
                 if type(parameterValue) == bool:
